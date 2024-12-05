@@ -2,11 +2,7 @@
 
 ## Images's show the mimimum forces required to move the slider
 
-
-
-https://github.com/user-attachments/assets/c04aea68-cf0f-49d3-b8c7-be9f5409a5f3
-
-
+https://github.com/user-attachments/assets/b7edd040-df99-4442-b2f5-d1d7e341d043
 
 ![image](https://github.com/user-attachments/assets/9ca8198e-46f5-43b0-86d2-032b5cdf251a)
 
