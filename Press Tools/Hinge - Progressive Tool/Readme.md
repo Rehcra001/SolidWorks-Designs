@@ -1,4 +1,11 @@
 # Hinge - Progressive Tool
+![image](https://github.com/user-attachments/assets/ac1195a1-7568-4830-8273-5caa50bcd54c)
+
+# Hinge
+![image](https://github.com/user-attachments/assets/1548b116-1d84-4183-a7ea-344da8eb27e7)
+
+# Stock Strip
+![image](https://github.com/user-attachments/assets/7482e76e-af74-46be-a823-f7be60643da5)
 
 
 # Working Animation
