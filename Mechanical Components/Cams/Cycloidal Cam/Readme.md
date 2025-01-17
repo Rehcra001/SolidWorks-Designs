@@ -15,6 +15,8 @@
 ![image](https://github.com/user-attachments/assets/539b08ed-7959-46c8-9f13-964b9b2d69e3)
 
 ## Animation
+https://github.com/user-attachments/assets/623e1482-8234-4e2a-aa97-b7bbd9547971
+
 
 ## Drawing
 ![image](https://github.com/user-attachments/assets/65212dc9-35ea-4f55-ad03-5878d5c1a7f6)
