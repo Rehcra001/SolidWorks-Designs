@@ -1,5 +1,8 @@
 # Compound Tool - Bends and pierce in one operation
 
+## Assembly Drawing
+![image](https://github.com/user-attachments/assets/81df25d7-d7e7-4fbe-b670-37116ec63285)
+
 
 ## Working Animation
 https://github.com/user-attachments/assets/5081c93b-116d-4fd5-960f-e1966fab4503
