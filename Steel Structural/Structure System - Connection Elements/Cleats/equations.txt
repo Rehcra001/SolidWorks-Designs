@@ -1,0 +1,12 @@
+﻿"Length"= ( "Number of Holes" - 1 ) * "Hole Pitch" + "Hole End Distance" * 2
+"Hole Dia"= 22
+"Hole Pitch"= 70
+"G Back Mark"= 55
+"Hole End Distance"=35
+"D1@Sketch12"="Hole Dia"
+"D3@LPattern1"= "Hole Pitch"
+"Number of Holes"= 2
+"D1@LPattern1"= "Number of Holes"
+"D2@Sketch12"="Hole End Distance"
+"D3@Sketch12"="G Back Mark"
+"D1@Sketch1"="Length"
